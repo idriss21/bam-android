@@ -4,8 +4,7 @@
 DONE :
 
 - Import data from API GitHub using Volley APi ( https://developer.android.com/training/volley)
-
--Parsing data using a local custom parser ( json format )
+- Parsing data using a local custom parser ( json format )
 
 - Persisting data using realm database ( https://realm.io/)
 
